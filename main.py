@@ -9,13 +9,13 @@ X_INIT: int = 1
 
 def prod_integers(old_inventory: int, new_inventory: int
                   ) -> int:
-    """_summary_
+    """This is the main function
 
-    :param num1: _description_
-    :type num1: dict[str, int]
-    :param num2: _description_
-    :type num2: list[int]
-    :return: _description_
+    :param old_inventory: old sum
+    :type old_inventory: int
+    :param new_inventory: new sum
+    :type new_inventory: int
+    :return: the new total inventory
     :rtype: int
     """
 
